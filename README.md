@@ -99,4 +99,4 @@ Overall, the project demonstrates how SQL can be used to evaluate retail perform
 ![Monthly Revenue Trend](MONTHLY_REVENUE_PNG.png)
 ## Connect
 
-**LinkedIn:** (https://www.linkedin.com/in/your-profile/)
+**LinkedIn:** (www.linkedin.com/in/anam-chhipa)

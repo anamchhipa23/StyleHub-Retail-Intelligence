@@ -85,6 +85,14 @@ While some stores and categories lead in sales, the findings show that higher re
 
 Overall, the project demonstrates how SQL can be used to evaluate retail performance, identify operational gaps, and support informed business decisions.
 
+## How to Run the Project
+
+1. Download the SQL script and CSV datasets from this repository.
+2. Open MySQL Workbench and execute `STYLE_HUB_RETAIL_FINAL.sql` to create the database and tables.
+3. Import the nine CSV files from the `data` folder into their corresponding tables, following foreign key dependencies.
+4. Run the SQL analysis queries after completing the data import.
+
+
 ## Connect
 
 **LinkedIn:** (https://www.linkedin.com/in/your-profile/)

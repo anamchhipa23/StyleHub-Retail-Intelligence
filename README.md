@@ -92,6 +92,9 @@ Overall, the project demonstrates how SQL can be used to evaluate retail perform
 3. Import the nine CSV files from the `data` folder into their corresponding tables, following foreign key dependencies.
 4. Run the SQL analysis queries after completing the data import.
 
+### Store-Level Gross Profit Comparison
+
+![Store Profitability](store_profitability.png)
 
 ## Connect
 

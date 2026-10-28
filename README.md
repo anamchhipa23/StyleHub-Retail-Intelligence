@@ -95,7 +95,8 @@ Overall, the project demonstrates how SQL can be used to evaluate retail perform
 ### Store-Level Gross Profit Comparison
 
 ![Store Profitability](store_profitability.png)
-
+### Monthly Net Revenue Trend (₹ Lakh)
+![Monthly Revenue Trend](MONTHLY_REVENUE_PNG.png)
 ## Connect
 
 **LinkedIn:** (https://www.linkedin.com/in/your-profile/)

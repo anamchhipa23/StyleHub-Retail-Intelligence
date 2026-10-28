@@ -1,0 +1,31 @@
+product_id,product_name,category_id,cost_price,selling_price
+1,Slim Fit Jeans,1,1209,2300
+2,Oxford Shirt,1,1556,3030
+3,Casual T-Shirt,1,363,870
+4,Chino Trousers,1,676,1570
+5,Denim Jacket,1,1046,2040
+6,Formal Blazer,1,790,2020
+7,Floral Dress,2,1039,1860
+8,Wide Leg Trousers,2,1128,2020
+9,Knit Top,2,1054,2360
+10,Straight Jeans,2,438,1030
+11,Linen Kurta,2,1448,2620
+12,Pleated Skirt,2,1125,1990
+13,Running Shoes,3,950,2320
+14,White Sneakers,3,1616,4040
+15,Formal Loafers,3,1090,2420
+16,Block Heels,3,1792,3160
+17,Casual Sandals,3,1704,3250
+18,Ankle Boots,3,942,2440
+19,Leather Belt,4,826,2050
+20,Sling Bag,4,1128,2200
+21,Wallet,4,1651,4050
+22,Sunglasses,4,683,1390
+23,Cap,4,779,1790
+24,Scarf,4,1787,4540
+25,Kids Hoodie,5,1677,2960
+26,Kids Jeans,5,1650,3060
+27,Girls Dress,5,851,1570
+28,Kids Sneakers,5,1127,2190
+29,Graphic T-Shirt,5,1660,3850
+30,Cotton Shorts,5,799,1850
